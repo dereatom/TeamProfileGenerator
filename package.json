@@ -1,0 +1,27 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Team Profile",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereatom/TeamProfileGenerator.git"
+  },
+  "author": "Dereje Ayele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dereatom/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/dereatom/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {}
+}
