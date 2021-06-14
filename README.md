@@ -22,7 +22,13 @@
   Use Jest for running the unit tests and Inquirer for collecting input from the user.This app uses concepts from Test-Driven Development. Jest is used to perform tests on all the class constructors to ensure that they behave as expected.
 
   ## Links
-  [Walkthrough_Vidio] (https://drive.google.com/file/d/1ppCPaDA3Tt4803z--hKD4uVVKReriZOC/view?usp=sharing)[Screenshots1] (https://drive.google.com/file/d/1J9gQSGaQIHRetzw9q1PeClPUY6syYhC-/view?usp=sharing).[Screenshot2] (https://drive.google.com/file/d/11HsQVXFiTarS4_bLORBKLFiNv1m-HuOq/view?usp=sharing)[Screenshot3] (https://drive.google.com/file/d/18jV-NoTrOR92f9hKa6ObupvrBpFPyLp3/view?usp=sharing) [Screenshot4] (https://drive.google.com/file/d/1RUICNvf9_PtRBs_oQRm3IGhrkcQOtSdE/view?usp=sharing)
+![Capture1](https://user-images.githubusercontent.com/77940481/121917844-80892680-cd03-11eb-89db-81b1aa28caf6.JPG)
+![Capture2](https://user-images.githubusercontent.com/77940481/121917853-8252ea00-cd03-11eb-8ab2-2ff4c237eb1f.JPG)
+![Capture3](https://user-images.githubusercontent.com/77940481/121917861-841cad80-cd03-11eb-89a2-49345da445bd.JPG)
+![Capture4](https://user-images.githubusercontent.com/77940481/121917869-85e67100-cd03-11eb-8aa3-afd9c3e20e2c.JPG)
+![Capture5](https://user-images.githubusercontent.com/77940481/121917876-87b03480-cd03-11eb-919f-2d89eae9a26c.JPG)
+![Capture6](https://user-images.githubusercontent.com/77940481/121917896-8bdc5200-cd03-11eb-852c-1f5ecba99e5b.JPG)
+![Capture7](https://user-images.githubusercontent.com/77940481/121917903-8da61580-cd03-11eb-845b-6262fc3b2526.JPG)
   
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
