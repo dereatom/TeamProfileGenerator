@@ -22,6 +22,7 @@
   Use Jest for running the unit tests and Inquirer for collecting input from the user.This app uses concepts from Test-Driven Development. Jest is used to perform tests on all the class constructors to ensure that they behave as expected.
 
   ## Links
+[Walkthrough_Video](https://drive.google.com/file/d/1ppCPaDA3Tt4803z--hKD4uVVKReriZOC/view?usp=sharing)
 ![Capture1](https://user-images.githubusercontent.com/77940481/121917844-80892680-cd03-11eb-89db-81b1aa28caf6.JPG)
 ![Capture2](https://user-images.githubusercontent.com/77940481/121917853-8252ea00-cd03-11eb-8ab2-2ff4c237eb1f.JPG)
 ![Capture3](https://user-images.githubusercontent.com/77940481/121917861-841cad80-cd03-11eb-89a2-49345da445bd.JPG)
